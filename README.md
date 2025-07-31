@@ -8,7 +8,7 @@ A FastAPI-based Visitor Management System (VMS) for managing user authentication
 - RESTful API endpoints for login and user management
 - SQLAlchemy ORM for database operations
 - Docker support for containerization
-- Redis integration (optional)
+- Redis integration 
 
 ## Tech Stack
 - Python 3.12+
@@ -17,14 +17,14 @@ A FastAPI-based Visitor Management System (VMS) for managing user authentication
 - Passlib (bcrypt)
 - PyJWT (jose)
 - Docker
-- Redis (optional)
+- Redis 
 
 ## Getting Started
 
 ### Prerequisites
 - Python 3.12+
-- Docker (optional)
-- Redis (optional)
+- Docker 
+- Redis 
 
 ### Installation
 1. Clone the repository:
